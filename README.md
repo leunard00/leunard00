@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Leunard Gervalla! 👋  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Leunard Gervalla! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ❗ I am a recent graduate of Conestoga College with an advanced diploma in Computer Programming and Analysis ❗
 
 Since early 2017 when I first began programming with Java in highschool I instantly knew that this is what I was passionate about.  
