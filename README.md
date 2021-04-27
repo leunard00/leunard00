@@ -1,4 +1,4 @@
-👋 Hello, I'm Leunard Gervalla! 👋  
+#👋 Hello, I'm Leunard Gervalla! 👋#   
 ❗ I am a recent graduate of Conestoga College with an advanced diploma in Computer Programming and Analysis ❗
 
 Since early 2017 when I first began programming with Java in highschool I instantly knew that this is what I was passionate about.  
@@ -38,3 +38,32 @@ My academic journey has earned me a great deal of experience working with a vari
 💬 Feel free to get in touch!  
 Gmail: leunardgervalla00@gmail.com  
 Linkedln: WIP (😊)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
