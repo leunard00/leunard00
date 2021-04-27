@@ -1,8 +1,8 @@
-👋 Hello, I'm Leunard Gervalla! 👋
+👋 Hello, I'm Leunard Gervalla! 👋  
 ❗ I am a recent graduate of Conestoga College with an advanced diploma in Computer Programming and Analysis ❗
 
 Since early 2017 when I first began programming with Java in highschool I instantly knew that this is what I was passionate about.  
-Throughout my efforts at Conestoga College, I worked with a wide range of programming languages which include:
+Throughout my efforts at Conestoga College, I worked with a wide range of programming languages which include:  
 
 -Java 
 -JavaScript 
@@ -19,7 +19,7 @@ I have worked with ASP.NET Core to develop an entrepreneurial eCommerce applicat
 systems with the use of Microsoft SQL Server along with SQL scripts, these projects had me collaborating in groups spanning 
 from 3-4 individuals.
 
-My academic journey has earned me a great deal of experience working with a variety of programming tools such as:
+My academic journey has earned me a great deal of experience working with a variety of programming tools such as:  
 -Visual Studio 2019
 -GitHub Desktop
 -Microsoft SQL Server Management Studio
