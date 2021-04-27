@@ -3,12 +3,12 @@
 
 Since early 2017 when I first began programming with Java in highschool I instantly knew that this is what I was passionate about.  
 Throughout my efforts at Conestoga College, I worked with a wide range of programming languages which include: 
-
--Java 
--JavaScript 
--HTML 
+-Java
+-JavaScript
+-HTML
 -CSS
--PHP, with a main emphasis on C#.  
+-PHP 
+-Main emphasis on C#.  
 
 Throughout my projects, I have learned a great deal focussing on projects involving: 
 - Mobile application development
