@@ -2,13 +2,13 @@
 ❗ I am a recent graduate of Conestoga College with an advanced diploma in Computer Programming and Analysis ❗
 
 Since early 2017 when I first began programming with Java in highschool I instantly knew that this is what I was passionate about.  
-Throughout my efforts at Conestoga College, I worked with a wide range of programming languages which include: 
-*Java
-*JavaScript
-*HTML
-*CSS
-*PHP 
-*Main emphasis on C#.  
+Throughout my efforts at Conestoga College, I worked with a wide range of programming languages which include:  
+-Java
+-JavaScript
+-HTML
+-CSS
+-PHP 
+-Main emphasis on C#.  
 
 Throughout my projects, I have learned a great deal focussing on projects involving: 
 - Mobile application development
