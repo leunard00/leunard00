@@ -15,8 +15,7 @@ Throughout my projects, I have learned a great deal focussing on projects involv
 - Game Development
 - Enterprise application development
 
-I have worked with ASP.NET Core to develop an entrepreneurial eCommerce application while developing complex database 
-systems with the use of Microsoft SQL Server along with SQL scripts, these projects had me collaborating in groups spanning 
+I have worked with ASP.NET Core to develop an entrepreneurial eCommerce application, these projects had me collaborating in groups spanning 
 from 3-4 individuals.
 
 My academic journey has earned me a great deal of experience working with a variety of programming tools such as: 
@@ -37,4 +36,3 @@ My academic journey has earned me a great deal of experience working with a vari
 
 # 💬 Feel free to get in touch!  
 Gmail: leunardgervalla00@gmail.com  
-Linkedln: WIP (😊)
